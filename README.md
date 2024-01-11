@@ -226,6 +226,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; use of trusted third party to assure certain properties of data exchange.
 </details>
 
+<br />
 #### Lecture 1 Q/A
 
 <details>
@@ -269,7 +270,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it will not allow any modification, insertion or deletion to a resource.
 </details>
 
-
+<details>
+    <summary>What are information security principles?</summary>
+    'sp' 
+</details>
+<br />
+<br />
+<br />
 ## Abbrevations
 
 <details>
