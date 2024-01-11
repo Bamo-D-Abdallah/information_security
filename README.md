@@ -438,6 +438,12 @@
 
 
 <details>
+    <summary>What does DOS stand for?</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denial of Service 
+</details>
+
+
+<details>
     <summary>How many principlies does security follow? what are they?</summary>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 principles
     <ul>
@@ -651,10 +657,7 @@
 </details>
 
 
-<details>
-    <summary>What does DOS stand for?</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denial of Service 
-</details>
+
 
 <details>
     <summary>__________ process that is designed to detect, prevent, or recover from security attack.</summary>
@@ -674,11 +677,6 @@
 <details>
     <summary>______ any changes to the information by an authorized user is tracked.</summary>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrity
-</details>
-
-<details>
-    <summary>Topic</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; explanation
 </details>
 
 
