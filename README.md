@@ -1,116 +1,278 @@
-<style>
-* {
-    font-size: 20px;
-}
-.m1{
-    margin-left: 20px;
-}
-
-.m2 {
-    margin-left: 40px;
-}
-
-.m3 {
-    margin-left: 60px;
-}
-
-</style>
-
 ## Lecture 1
 
 <details>
     <summary>Security</summary>
-    <span class="m2">the state of being free from danger or threat</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the state of being free from danger or threat
 </details>
 
 <details>
     <summary>Information Security</summary>
-    <span class="m2">method of protecting digital information from unauthroized access. </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; method of protecting digital information from unauthroized access.
 </details>
 
 
 <details>
     <summary>What are the three Information  security principles?</summary>
-    <details>
-        <summary class="m1">Confidentiality</summary>
-        <span class="m2">information is only being seen or used by people who are wuthorized to access it.</span>
-    </details>
-    <details>
-        <summary class="m1">Integrity</summary>
-        <span class="m2">any change to the information by an unauthorized user is impossible and change by authorized user is tracked.</span>
-    </details>
-    <details>
-        <summary class="m1">Availability</summary>
-        <span class="m2">the information is accessible when authorized users need it.</span>
-    </details>
+    <ul>
+        <li>Confidentiality</li>
+        <li>Integrity</li>
+        <li>Availability</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Confidentiality</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; information is only being seen or used by people who are authorized to access it.
+</details>
+
+<details>
+    <summary>Integrity</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any change to the information by an unauthorized user is impossible and change by authorized user is tracked.
+</details>
+
+<details>
+    <summary>Availability</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the information is accessible when authorized users need it.
 </details>
 
 <details>
     <summary>Threat</summary>
-    <span class="m1">possible danger that might exploit vulnerability</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; possible danger that might exploit vulnerability
 </details>
 
 <details>
     <summary>Attacks</summary>
-    <span class="m2">a deliberate attempt to violate the security policy of the system.</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a deliberate attempt to violate the security policy of the system.
 </details>
 
 <details>
     <summary>Security attack</summary>
-    <span class="m2">any action that compromises the security of information owned by the organization.</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any action that compromises the security of information owned by the organization
 </details>
 
 <details>
-    <summary>Types of attack</summary>
-    <details>
-        <summary class="m1">Passive attack</summary>
-        <span class="m2">monitoring of transmission</span>
-    </details>
-    <details>
-        <summary class="m1">Active attack</summary>
-        <span class="m2">Involves modificaiton or creation false data stream</span>
-    </details>
+    <summary>Passive attack</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; monitoring of transmission.
 </details>
+
+<details>
+    <summary>Types of attacks</summary>
+    <ul>
+        <li>Passive attack</li>
+        <li>Active attack</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Passive attack</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; monitoring of transmission
+</details>
+
+<details>
+    <summary>Active attack</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; involves modification or false data stream creation.
+</details>
+
 
 <details>
     <summary>Types of Passive attack</summary>
     <ul>
-        <li class="m1"> Release of message content </li>
-        <li class="m1"> Traffic Analysis </li>
+        <li> Release of message content </li>
+        <li> Traffic Analysis </li>
     </ul>
 </details>
 
 <details>
-    <summary>Types of <b style="color: blue">Active attack</b></summary>
+    <summary>Types of Active attack</summary>
     <ul>
-        <li class="m1"> Release of message content </li>
-        <li class="m1"> Traffic Analysis </li>
+        <li>Masquerade</li>
+        <li>Modification of message</li>
+        <li>Denail of Service (DOS) </li>
+        <li>Replay</li>
     </ul>
 </details>
 
+<details>
+    <summary>Why it is difficult to detect?</summary>
+    'sp' Because the sender and receiver can't detect third parties reading their messages.
+</details>
 
+<details>
+    <summary>Masquerade</summary>
+    'sp' takes place when an entity pretends to be different entity.
+</details>
+
+<details>
+    <summary>Modification of message</summary>
+    'sp' means that some portion of genuine message is altered or that message is delayed or reordered to produce an unautohrized effect.
+</details>
+
+<details>
+    <summary>Replay</summary>
+    'sp' involves the passive capture of a data unit and its subsequent transimission to produce an unauthorized effect.
+</details>
+
+<details>
+    <summary>Denial of Service (DOS)</summary>
+    'sp' prevents a normal use of management of communication facilities.
+</details>
+
+
+<details>
+    <summary>Denial of Service</summary>
+    'sp' prevents a normal use of management of communication facilities.
+</details>
+
+<details>
+    <summary>Authentication</summary>
+    'sp' Is an assurance that the communication entity is the one that claims to be.
+</details>
+
+<details>
+    <summary>Types of authentication</summary>
+    <ul>
+        <li>Peer Entity authentication</li>
+        <li>Data-Origin authentication</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Peer Entity authentication</summary>
+    'sp' Peer entity authentication is the process of verifying the identity of entities involved in a logical connection to ensure their legitimacy.
+</details>
+
+<details>
+    <summary>Data-Origin authentication</summary>
+    'sp' in a connectionless transfer, provides assurance that the source of received data is as claimed.
+</details>
+
+<details>
+    <summary>Data Confidentiality</summary>
+    'sp' is the protection of data from unauthorized leak
+</details>
+
+<details>
+    <summary>Access Control</summary>
+    'sp' is a prevention of unauthorized use of a resource.
+</details>
+
+<details>
+    <summary>Data Integrity</summary>
+    'sp' is the assurance that the data received are exactly as sent by an authorized entity.
+</details>
+
+<details>
+    <summary>Nonrepudiation</summary>
+    'sp' provides protection against denial of any one of the entities participating in a communication.
+</details>
+
+<details>
+    <summary>Types of nonrepudiation</summary>
+    <ul>
+        <li>Origin</li>
+        <li>Destination</li>
+    <ul>
+</details>
+
+<details>
+    <summary>Origin Nonrepudiation</summary>
+    'sp' proof that the message was sent by the specified party.
+</details>
+
+<details>
+    <summary>Destination Nonrepudiation</summary>
+    'sp' proof that the message was received by the specified party.
+</details>
+
+<details>
+    <summary>Security Mechanism</summary>
+    'sp' a process that is designed to detect, prevent, or recover from security attack.
+</details>
+
+<details>
+    <summary>Encipherment</summary>
+    'sp' use of mathematical algorithm to transform data into a form that is not readily intelligible.
+</details>
+
+<details>
+    <summary>Digital Signature</summary>
+    'sp' Is a mechanism that proves the data source and integrity of the data unit and protects against unauthorized modification.
+</details>
+
+<details>
+    <summary>Access Control</summary>
+    'sp' Provides access rights to resources (devices, files, storages)
+</details>
+
+<details>
+    <summary>Data Integrity</summary>
+    'sp' a variety of mechanisms used to assure the integirty of a data unit or stream of data unit.
+</details>
+
+
+<details>
+    <summary>Traffic padding</summary>
+    'sp' insertion of bits into gaps of data stream to frustrate traffic analysis attempts.
+</details>
+
+
+<details>
+    <summary>Routing control</summary>
+    'sp' enables selection of particular physically secured routes for certain data and allows routing changes.
+</details>
+
+<details>
+    <summary>Notarization</summary>
+    'sp' use of trusted third party to assure certain properties of data exchange.
+</details>
 
 #### Lecture 1 Q/A
 
 <details>
-    <summary>What is Traffic Analysis?</summary>
-    <span class="m2">Observing the pattern of messages</span>
+    <summary>What is traffic Analysis?</summary>
+    'sp' Observing the pattern of messages
 </details>
 
 
 <details>
-    <summary>Why it is difficult to detect <b style="color: blue;">passive attack</b>?</summary>
-    <span class="m2">Because the sender and receiver can't detect third parties reading their messages.</span>
+    <summary>Why it is difficult to detect passive attack?</summary>
+    'sp' Because the sender and receiver can't detect third parties reading their messages.
 </details>
 
 <details>
-    <summary>How do you prevent <b style="color: blue;">passive attack</b>?</summary>
-    <span class="m2">By using encryption</span>
+    <summary>How do you prevent passive attack?</summary>
+    'sp' By using encryption
+</details>
+
+<details>
+    <summary>Why it is difficult to prevent active attack?</summary>
+    'sp' because of the wide variety of potential physical, software and network vulnerabilities.
+</details>
+
+<details>
+    <summary>What is the goal against passive attack?</summary>
+    'sp' prevention rather than detection.
+</details>
+
+<details>
+    <summary>What is the goal against active attack?</summary>
+    'sp' to detect them and recover from any disruption or delay.
+</details>
+
+<details>
+    <summary>What does "Access Control" control?</summary>
+    'sp' who can access to a resource, what they allowed to do, and under what condition they can access it.
+</details>
+
+<details>
+    <summary>What does Data Integrity doesn't allow?</summary>
+    'sp' it will not allow any modification, insertion or deletion to a resource.
 </details>
 
 
+## Abbrevations
 
-
-
-
-
+<details>
+    <summary>DOS</summary>
+    'sp' Denial of Service
+</details>
