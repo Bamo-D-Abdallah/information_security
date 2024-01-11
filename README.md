@@ -227,6 +227,7 @@
 </details>
 
 <br />
+
 #### Lecture 1 Q/A
 
 <details>
@@ -277,6 +278,7 @@
 <br />
 <br />
 <br />
+
 ## Abbrevations
 
 <details>
