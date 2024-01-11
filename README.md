@@ -94,38 +94,38 @@
 
 <details>
     <summary>Why it is difficult to detect?</summary>
-    'sp' Because the sender and receiver can't detect third parties reading their messages.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Because the sender and receiver can't detect third parties reading their messages.
 </details>
 
 <details>
     <summary>Masquerade</summary>
-    'sp' takes place when an entity pretends to be different entity.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; takes place when an entity pretends to be different entity.
 </details>
 
 <details>
     <summary>Modification of message</summary>
-    'sp' means that some portion of genuine message is altered or that message is delayed or reordered to produce an unautohrized effect.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; means that some portion of genuine message is altered or that message is delayed or reordered to produce an unautohrized effect.
 </details>
 
 <details>
     <summary>Replay</summary>
-    'sp' involves the passive capture of a data unit and its subsequent transimission to produce an unauthorized effect.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; involves the passive capture of a data unit and its subsequent transimission to produce an unauthorized effect.
 </details>
 
 <details>
     <summary>Denial of Service (DOS)</summary>
-    'sp' prevents a normal use of management of communication facilities.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prevents a normal use of management of communication facilities.
 </details>
 
 
 <details>
     <summary>Denial of Service</summary>
-    'sp' prevents a normal use of management of communication facilities.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prevents a normal use of management of communication facilities.
 </details>
 
 <details>
     <summary>Authentication</summary>
-    'sp' Is an assurance that the communication entity is the one that claims to be.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is an assurance that the communication entity is the one that claims to be.
 </details>
 
 <details>
@@ -138,32 +138,32 @@
 
 <details>
     <summary>Peer Entity authentication</summary>
-    'sp' Peer entity authentication is the process of verifying the identity of entities involved in a logical connection to ensure their legitimacy.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Peer entity authentication is the process of verifying the identity of entities involved in a logical connection to ensure their legitimacy.
 </details>
 
 <details>
     <summary>Data-Origin authentication</summary>
-    'sp' in a connectionless transfer, provides assurance that the source of received data is as claimed.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in a connectionless transfer, provides assurance that the source of received data is as claimed.
 </details>
 
 <details>
     <summary>Data Confidentiality</summary>
-    'sp' is the protection of data from unauthorized leak
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is the protection of data from unauthorized leak
 </details>
 
 <details>
     <summary>Access Control</summary>
-    'sp' is a prevention of unauthorized use of a resource.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is a prevention of unauthorized use of a resource.
 </details>
 
 <details>
     <summary>Data Integrity</summary>
-    'sp' is the assurance that the data received are exactly as sent by an authorized entity.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is the assurance that the data received are exactly as sent by an authorized entity.
 </details>
 
 <details>
     <summary>Nonrepudiation</summary>
-    'sp' provides protection against denial of any one of the entities participating in a communication.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provides protection against denial of any one of the entities participating in a communication.
 </details>
 
 <details>
@@ -176,97 +176,97 @@
 
 <details>
     <summary>Origin Nonrepudiation</summary>
-    'sp' proof that the message was sent by the specified party.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; proof that the message was sent by the specified party.
 </details>
 
 <details>
     <summary>Destination Nonrepudiation</summary>
-    'sp' proof that the message was received by the specified party.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; proof that the message was received by the specified party.
 </details>
 
 <details>
     <summary>Security Mechanism</summary>
-    'sp' a process that is designed to detect, prevent, or recover from security attack.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a process that is designed to detect, prevent, or recover from security attack.
 </details>
 
 <details>
     <summary>Encipherment</summary>
-    'sp' use of mathematical algorithm to transform data into a form that is not readily intelligible.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; use of mathematical algorithm to transform data into a form that is not readily intelligible.
 </details>
 
 <details>
     <summary>Digital Signature</summary>
-    'sp' Is a mechanism that proves the data source and integrity of the data unit and protects against unauthorized modification.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is a mechanism that proves the data source and integrity of the data unit and protects against unauthorized modification.
 </details>
 
 <details>
     <summary>Access Control</summary>
-    'sp' Provides access rights to resources (devices, files, storages)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provides access rights to resources (devices, files, storages)
 </details>
 
 <details>
     <summary>Data Integrity</summary>
-    'sp' a variety of mechanisms used to assure the integirty of a data unit or stream of data unit.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a variety of mechanisms used to assure the integirty of a data unit or stream of data unit.
 </details>
 
 
 <details>
     <summary>Traffic padding</summary>
-    'sp' insertion of bits into gaps of data stream to frustrate traffic analysis attempts.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; insertion of bits into gaps of data stream to frustrate traffic analysis attempts.
 </details>
 
 
 <details>
     <summary>Routing control</summary>
-    'sp' enables selection of particular physically secured routes for certain data and allows routing changes.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enables selection of particular physically secured routes for certain data and allows routing changes.
 </details>
 
 <details>
     <summary>Notarization</summary>
-    'sp' use of trusted third party to assure certain properties of data exchange.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; use of trusted third party to assure certain properties of data exchange.
 </details>
 
 #### Lecture 1 Q/A
 
 <details>
     <summary>What is traffic Analysis?</summary>
-    'sp' Observing the pattern of messages
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Observing the pattern of messages
 </details>
 
 
 <details>
     <summary>Why it is difficult to detect passive attack?</summary>
-    'sp' Because the sender and receiver can't detect third parties reading their messages.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Because the sender and receiver can't detect third parties reading their messages.
 </details>
 
 <details>
     <summary>How do you prevent passive attack?</summary>
-    'sp' By using encryption
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By using encryption
 </details>
 
 <details>
     <summary>Why it is difficult to prevent active attack?</summary>
-    'sp' because of the wide variety of potential physical, software and network vulnerabilities.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; because of the wide variety of potential physical, software and network vulnerabilities.
 </details>
 
 <details>
     <summary>What is the goal against passive attack?</summary>
-    'sp' prevention rather than detection.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prevention rather than detection.
 </details>
 
 <details>
     <summary>What is the goal against active attack?</summary>
-    'sp' to detect them and recover from any disruption or delay.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to detect them and recover from any disruption or delay.
 </details>
 
 <details>
     <summary>What does "Access Control" control?</summary>
-    'sp' who can access to a resource, what they allowed to do, and under what condition they can access it.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; who can access to a resource, what they allowed to do, and under what condition they can access it.
 </details>
 
 <details>
     <summary>What does Data Integrity doesn't allow?</summary>
-    'sp' it will not allow any modification, insertion or deletion to a resource.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it will not allow any modification, insertion or deletion to a resource.
 </details>
 
 
@@ -274,5 +274,5 @@
 
 <details>
     <summary>DOS</summary>
-    'sp' Denial of Service
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Denial of Service
 </details>
