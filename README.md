@@ -825,6 +825,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is an encryption/decryption scheme in which a block of plaintext is used to produce a cipher text block of equal length.
 </details>
 
+<details>
+    <summary>Block Cipher</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is an encryption/decryption scheme in which a block of plaintext is used to produce a cipher text block of equal length.
+</details>
 
 <details>
     <summary>examples of block cipher algorithm</summary>
@@ -841,8 +845,6 @@
     <summary>__________ in any given language, certain letters and combinations of letters occur with varying frequencies.</summary>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; frequency letters (counting letters)
 </details>
-
-
 
 
 
