@@ -754,6 +754,94 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; instead of substituting one letter for another letter it performs substitutions with two or more groups of letters.
 </details>
 
+<details>
+    <summary>Playfair cipher</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is a best known as multiple-letter cipher based on the use of 5x5 matrix of letters using a keyword.
+</details>
+
+<details>
+    <summary>Transport cipher</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a block cipher which acts on the plaintext by permuting the positions of the characters in the plaintext
+</details>
+
+
+<details>
+    <summary>Rail Fence cipher</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the plaintext is written downwards and diagonally on successive "rails" of an imaginary fence.
+</details>
+
+<details>
+    <summary>The two ways that ciphers may be secure</summary>
+    <ol>
+        <li>computational security</li>
+        <li>unconditional security</li>
+    </ol>
+</details>
+
+
+<details>
+    <summary>computational security</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; given limited computing resources, the cipher cannot be broken.
+</details>
+
+<details>
+    <summary>unconditional security</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; no matter how much computer power is available, the cipher cannot be broken.
+</details>
+
+<details>
+    <summary>Ciphertext-only attack</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the situation where the attacker doesn ot know anything about the contents of the message.
+</details>
+
+<details>
+    <summary>Known-plaintext attack</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the attacker knows or can guess the plaintext for some parts of the Ciphertext. the task is to decrypt the rest of the ciphertext blocks using this information.
+</details>
+
+<details>
+    <summary>Chosen-plaintext attack</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the attacker is able to have any text he likes encrypted with the unknown key. The task is to determine the key used for encryption.
+</details>
+
+<details>
+    <summary>Man-in-middle attack</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; two parties are exchanging keys for secure communication, an adversary puts himself between the prties on the communication line.
+</details>
+
+<details>
+    <summary>Frequency analysis</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the study of the frequency of letters or groups of letters in a ciphertext.
+</details>
+
+<details>
+    <summary>counting letters</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the study of the frequency of letters or groups of letters in a ciphertext.
+</details>
+
+
+<details>
+    <summary>Block Cipher</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is an encryption/decryption scheme in which a block of plaintext is used to produce a cipher text block of equal length.
+</details>
+
+
+<details>
+    <summary>examples of block cipher algorithm</summary>
+    <ul>
+        <li>DES</li>
+        <li>3DES</li>
+        <li>AES</li>
+    </ul>
+</details>
+
+#### Lecture 2 test
+
+<details>
+    <summary>__________ in any given language, certain letters and combinations of letters occur with varying frequencies.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; frequency letters (counting letters)
+</details>
+
 
 
 
@@ -769,3 +857,19 @@
     <summary>DOS</summary>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Denial of Service
 </details>
+
+<details>
+    <summary>DES</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Encryption Standard
+</details>
+
+<details>
+    <summary>3DES</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Triple Data Encryption Standard
+</details>
+
+<details>
+    <summary>AES</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advance Encryption Standard
+</details>
+
