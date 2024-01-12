@@ -679,6 +679,84 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrity
 </details>
 
+<br />
+
+## Lecture 2
+
+<details>
+    <summary>Cryptography</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is the science of using mathematics to encrypt and decrypt data.
+</details>
+
+<details>
+    <summary>Cryptanalysis</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; technique used for deciphering a message without any knowledge of enciphering text.
+</details>
+
+<details>
+    <summary>Cryptology</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is the area of cryptography and cryptanalysis used together
+</details>
+
+<details>
+    <summary>Plain text</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the original text fed to encryption algorithm.
+</details>
+
+<details>
+    <summary>Cipher text</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the coded random stream of data text depending on plain text and secret key.
+</details>
+
+<details>
+    <summary>Enciphering</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the process of converting plain text to cipher text.
+</details>
+
+<details>
+    <summary>Encryption</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the process of converting plain text to cipher text.
+</details>
+
+
+<details>
+    <summary>Deciphering</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The process of converting cipher text to plain text.
+</details>
+
+<details>
+    <summary>Decryption</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The process of converting cipher text to plain text.
+</details>
+
+<details>
+    <summary>Substitution ciphers</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; acts on the plain text by making a substitution of the characters with the leemtns of a new alphabet.
+</details>
+
+<details>
+    <summary>Monoalphabetic Ciphers</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a monoalphabetic cipher uses the same substitution across the entire message.
+</details>
+
+<details>
+    <summary>Caesar Cipher</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the simplest substitution cipher intrdouced by Julius Ceasar.
+</details>
+
+<details>
+    <summary>Polyalphabetic ciphers</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the substitution may change throughout the message.
+</details>
+
+<details>
+    <summary>Polygraphic ciphers</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; instead of substituting one letter for another letter it performs substitutions with two or more groups of letters.
+</details>
+
+
+
+
 
 
 <br />
