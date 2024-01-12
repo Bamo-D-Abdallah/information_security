@@ -841,10 +841,113 @@
 
 #### Lecture 2 test
 
+
+<details>
+    <summary>____________ the process of converting cipher text to plain text</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deciphering (or Decryption)
+</details>
+
 <details>
     <summary>__________ in any given language, certain letters and combinations of letters occur with varying frequencies.</summary>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; frequency letters (counting letters)
 </details>
+
+<details>
+    <summary>Caesar Cipher was introduced by ___________</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Julius Ceasar
+</details>
+
+<details>
+    <summary>_____________ the study of the frequency of letters or groups of letters in a ciphertext.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; counting letters
+</details>
+
+<details>
+    <summary>___________ given limited computing resources, the cipher cannot be broken.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; computational security
+</details>
+
+<details>
+    <summary>in __________ no matter how much computer power is available, the cipher cannot be broken.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; unconditional security
+</details>
+
+<details>
+    <summary>in ___________ the situation where the attacker doesn ot know anything about the contents of the message.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ciphertext-only attack
+</details>
+
+<details>
+    <summary>_____________ the attacker knows or can guess the plaintext for some parts of the Ciphertext. the task is to decrypt the rest of the ciphertext blocks using this information.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Known-plaintext attack
+</details>
+
+<details>
+    <summary>______________ the study of the frequency of letters or groups of letters in a ciphertext.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frequency analysis
+</details>
+
+<details>
+    <summary>What are the ways that ciphers may be secure?</summary>
+    <ol>
+        <li>computational security</li>
+        <li>unconditional security</li>
+    </ol>
+</details>
+
+<details>
+    <summary>____________ is an encryption/decryption scheme in which a block of plaintext is used to produce a cipher text block of equal length.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Block Cipher 
+</details>
+
+<details>
+    <summary>____________ a monoalphabetic cipher uses the same substitution across the entire message.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monoalphabetic ciphers
+</details>
+
+<details>
+    <summary>__________ is a technique used for deciphering a message without any knowledge of enciphering text is called cryptanalysis</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cryptanalysis
+</details>
+
+<details>
+    <summary>_________ is the area of cryptography and cryptanalysis used together.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cryptography
+</details>
+
+<details>
+    <summary>_____________ the attacker is able to have any text he likes encrypted with the unknown key. The task is to determine the key used for encryption.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chosen-plaintext attack
+</details>
+
+<details>
+    <summary>____________ two parties are exchanging keys for secure communication, an adversary puts himself between the prties on the communication line.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Man-in-middle attack
+</details>
+
+<details>
+    <summary>___________ the process of converting plain text to cipher text</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enciphering (or Encryption)
+</details>
+
+<details>
+    <summary>__________ is the science of using mathematics to encrypt and decrypt data.</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cryptography
+</details>
+
+<details>
+    <summary>___________ a cipher which acts on the plain text by making a substitution of the characters with the elements of a new alphabet</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; substitution cipher
+</details>
+
+<details>
+    <summary>___________ is the simplets cipher</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caesar Cipher
+</details>
+
+
+
+
 
 
 
