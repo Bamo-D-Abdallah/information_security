@@ -1,1 +1,1 @@
-![someimage](./images/1.png = 20x20)
+![someimage](./images/1.png =20x20)
