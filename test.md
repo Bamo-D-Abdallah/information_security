@@ -1,1 +1,1 @@
-![someimage](./images/1.png | width=20)
+![someimage](./images/1.png)
